@@ -16,7 +16,7 @@ We use the standard color scheme that Meesho follows and tried to incorporate th
 ![Screenshot-1](./doc_assets/flashScreen.jpeg)
 ![Screenshot-2](./doc_assets/appUI.jpeg)
 ![Screenshot-3](./doc_assets/ProductUI.jpeg)
-![Screenshot-4](./doc_assets/ClothesTryOn.jpeg)
+![Screenshot-4](./doc_assets/ClothsTryOn.jpeg)
 
 
 # Team Details:
