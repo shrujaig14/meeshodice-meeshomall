@@ -22,6 +22,6 @@ We use the standard color scheme that Meesho follows and tried to incorporate th
 
 
 **Contributers**:
-1. [Rishabh Jain](https://www.linkedin.com/in/awesome-rishabh-jain/)
+1. [Shrujai Gupta](https://www.linkedin.com/in/shrujaigupta/)
 2. [Aditya Singh](https://www.linkedin.com/in/aditya-singh-95109b311/)
-3. [Shrujai Gupta](https://www.linkedin.com/in/shrujaigupta/)
+3. [Rishabh Jain](https://www.linkedin.com/in/awesome-rishabh-jain/)
